@@ -19,9 +19,9 @@ The piurpose of this project is to clean up code syntax, condense css styles and
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot1.png)
-![Example screenshot](./img/screenshot2.png)
-![Example screenshot](./img/screenshot3.png)
+![Screen Shot 1](../img/screenshot1.png)
+![Screen Shot 2](./img/screenshot2.png)
+![Screen Shot 3](./img/screenshot3.png)
 
 ## Technologies
 
@@ -51,4 +51,4 @@ w3schools
 
 ## Contact
 
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Mariah Rivera
