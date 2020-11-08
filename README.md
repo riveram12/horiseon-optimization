@@ -19,7 +19,7 @@ The piurpose of this project is to clean up code syntax, condense css styles and
 
 ## Screenshots
 
-![Screen Shot 1](../img/screenshot1.png)
+![Screen Shot 1](img/screenshot1.png)
 ![Screen Shot 2](./img/screenshot2.png)
 ![Screen Shot 3](./img/screenshot3.png)
 
