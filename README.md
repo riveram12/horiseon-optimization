@@ -19,9 +19,9 @@ The piurpose of this project is to clean up code syntax, condense css styles and
 
 ## Screenshots
 
-![Screen Shot 1](./assests/imges/screenshot1.png)
-![Screen Shot 2](./assests/imges/screenshot2.png)
-![Screen Shot 3](./assests/imges/screenshot3.png)
+![Screen Shot 1](assets/images/screenshot1.png)
+![Screen Shot 2](assets/images/screenshot2.png)
+![Screen Shot 3](assets/images/screenshot3.png)
 
 ## Technologies
 
